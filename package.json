@@ -1,0 +1,25 @@
+{
+  "name": "adless-proxy",
+  "version": "1.0.0",
+  "description": "Ad blocking proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frozen-software/adless-proxy.git"
+  },
+  "keywords": [
+    "ad",
+    "block",
+    "proxy",
+    "all"
+  ],
+  "author": "Elijah",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/frozen-software/adless-proxy/issues"
+  },
+  "homepage": "https://github.com/frozen-software/adless-proxy#readme"
+}
